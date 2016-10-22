@@ -38,3 +38,5 @@ blocksafari is a web-based frontend to the blockchain in [btcd](https://github.c
 ## License
 
 blocksafari is licensed under the liberal ISC License.
+
+ok
